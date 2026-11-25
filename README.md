@@ -31,7 +31,7 @@ It must provide secure access for students, administrators, and staff while prot
 
 ## USECASE DIAGRAM:
 
-<img width="917" height="880" alt="image" src="https://github.com/user-attachments/assets/ca39c033-470a-4d51-a67f-6cd331495bc2" />
+<img width="907" height="872" alt="image" src="https://github.com/user-attachments/assets/50d7a830-1a64-40ad-bf8a-e5b263c79383" />
 
 
 ## CLASS DIAGRAM:
